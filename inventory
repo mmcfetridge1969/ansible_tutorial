@@ -1,0 +1,8 @@
+[homeserver]
+192.168.1.151
+
+[laptopserver]
+192.168.1.150
+
+[hostedserver]
+104.168.122.188
